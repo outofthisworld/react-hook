@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.left {
+  position: relative;
+  left: 300px;
+  transition: all 0.4s linear;
+}
+
+.original {
+  position: relative;
+  left: 0px;
+  transition: all 0.4s linear;
+}
